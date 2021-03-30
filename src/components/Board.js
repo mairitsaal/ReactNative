@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { StyleSheet, Text, View, ImageBackground } from 'react-native';
+import { StyleSheet, Text, View } from 'react-native';
 import Cell from './Cell';
 import {
     initBoardData,
@@ -99,10 +99,6 @@ const Board = () => {
     };
 
     return (
-        <ImageBackground
-            source={{ uri: './images/background.png' }}
-            style={{ width: 410, height: 700 }}
-        >
             <View style={styles.container}>
                 <Text style={styles.title}>Minesweeper</Text>
                 <Text style={styles.tipText}>
@@ -132,7 +128,6 @@ const Board = () => {
                     />
                 </View>
             </View>
-        </ImageBackground>
     );
 };
 
@@ -157,7 +152,7 @@ const styles = StyleSheet.create({
         marginTop: 15,
     },
     title2: {
-        marginTop: 15,
+        marginTop: 10,
         flex: 1,
         fontSize: 30,
         color: 'green',

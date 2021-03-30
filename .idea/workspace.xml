@@ -11,28 +11,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42d05178-004d-40ef-9e77-4a2951a81999" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Awsomeproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/minesweeper.keystore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/background.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Awsomeproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Awsomeproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Board.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Board.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Cell.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Cell.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Circle.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Circle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/PopUp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PopUp.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/helpers/board-helpers.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/helpers/board-helpers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/utils/Colors.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/Colors.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -45,14 +59,29 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/images" />
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -63,8 +92,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616944590211</updated>
+      <workItem from="1617097576130" duration="2607000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -76,16 +109,67 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="129" y="122" width="871" height="583" key="AVDManager" timestamp="1617018087265">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="153" y="154" key="#PSD" timestamp="1617025150359">
+      <screen x="0" y="23" width="1440" height="790" />
     </state>
-    <state x="129" y="122" width="871" height="583" key="AVDManager/0.0.1440.900@0.0.1440.900" timestamp="1617018087265" />
-    <state x="129" y="123" width="871" height="585" key="AVDManager/0.23.1440.790@0.23.1440.790" timestamp="1616944859881" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1617018408786">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="153" y="154" key="#PSD/0.23.1440.790@0.23.1440.790" timestamp="1617025150359" />
+    <state x="0" y="77" width="964" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617024514794">
+      <screen x="0" y="23" width="1440" height="790" />
+    </state>
+    <state x="0" y="77" width="964" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.785@0.23.1440.785" timestamp="1617023451814" />
+    <state x="0" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.786@0.23.1440.786" timestamp="1617023024551" />
+    <state x="0" y="77" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.790@0.23.1440.790" timestamp="1617024514794" />
+    <state x="291" y="224" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1617049363960">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="291" y="224" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.786@0.23.1440.786" timestamp="1617049363960" />
+    <state x="129" y="129" width="871" height="507" key="AVDManager" timestamp="1617097497595">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="129" y="122" width="871" height="583" key="AVDManager/0.0.1440.900@0.0.1440.900" timestamp="1617020117023" />
+    <state x="129" y="129" width="871" height="507" key="AVDManager/0.23.1440.785@0.23.1440.785" timestamp="1617097497595" />
+    <state x="129" y="129" width="871" height="507" key="AVDManager/0.23.1440.786@0.23.1440.786" timestamp="1617026703547" />
+    <state x="129" y="130" width="871" height="510" key="AVDManager/0.23.1440.790@0.23.1440.790" timestamp="1617020635548" />
+    <state x="306" y="148" key="EnvironmentVariablesDialog" timestamp="1617022996728">
+      <screen x="0" y="23" width="1440" height="786" />
+    </state>
+    <state x="306" y="148" key="EnvironmentVariablesDialog/0.23.1440.786@0.23.1440.786" timestamp="1617022996728" />
+    <state x="236" y="164" key="FileChooserDialogImpl" timestamp="1617022670506">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="236" y="164" key="FileChooserDialogImpl/0.23.1440.785@0.23.1440.785" timestamp="1617022670506" />
+    <state width="1178" height="540" key="GridCell.Tab.0.bottom" timestamp="1617051843119">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state width="1178" height="540" key="GridCell.Tab.0.bottom/0.23.1440.785@0.23.1440.785" timestamp="1617051843119" />
+    <state width="817" height="200" key="GridCell.Tab.0.bottom/0.23.1440.786@0.23.1440.786" timestamp="1617023626599" />
+    <state width="1178" height="540" key="GridCell.Tab.0.center" timestamp="1617051843118">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state width="1178" height="540" key="GridCell.Tab.0.center/0.23.1440.785@0.23.1440.785" timestamp="1617051843118" />
+    <state width="817" height="200" key="GridCell.Tab.0.center/0.23.1440.786@0.23.1440.786" timestamp="1617023626598" />
+    <state width="1178" height="540" key="GridCell.Tab.0.left" timestamp="1617051843117">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state width="1178" height="540" key="GridCell.Tab.0.left/0.23.1440.785@0.23.1440.785" timestamp="1617051843117" />
+    <state width="817" height="200" key="GridCell.Tab.0.left/0.23.1440.786@0.23.1440.786" timestamp="1617023626598" />
+    <state width="1178" height="540" key="GridCell.Tab.0.right" timestamp="1617051843119">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state width="1178" height="540" key="GridCell.Tab.0.right/0.23.1440.785@0.23.1440.785" timestamp="1617051843119" />
+    <state width="817" height="200" key="GridCell.Tab.0.right/0.23.1440.786@0.23.1440.786" timestamp="1617023626599" />
+    <state x="0" y="54" width="912" height="722" key="SettingsEditor" timestamp="1617094927615">
+      <screen x="0" y="23" width="1440" height="785" />
+    </state>
+    <state x="0" y="54" width="912" height="722" key="SettingsEditor/0.23.1440.785@0.23.1440.785" timestamp="1617094927615" />
+    <state x="385" y="194" width="670" height="591" key="search.everywhere.popup" timestamp="1617095981963">
+      <screen x="0" y="23" width="1440" height="785" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1617018408786" />
+    <state x="385" y="194" width="670" height="591" key="search.everywhere.popup/0.23.1440.785@0.23.1440.785" timestamp="1617095981963" />
+    <state x="385" y="195" width="670" height="594" key="search.everywhere.popup/0.23.1440.790@0.23.1440.790" timestamp="1617020504218" />
   </component>
 </project>

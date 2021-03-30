@@ -5,7 +5,9 @@ import { LinearGradient } from 'expo-linear-gradient';
 import { primaryGradientArray } from './utils/Colors';
 
 const App = () => (
-    <LinearGradient colors={primaryGradientArray}>
+    <LinearGradient colors={primaryGradientArray}
+                    style={{ height: 1100 }}
+    >
         <View>
             <StatusBar barStyle="dark-content" hidden={false} />
             <Board />
